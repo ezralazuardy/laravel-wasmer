@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: ezralazuardy-laravel-wasmer
+owner: ezralazuardy
+package: .
+scaling:
+  mode: single_concurrency
